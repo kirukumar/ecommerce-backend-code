@@ -14,6 +14,7 @@ import lombok.Data;
 @Entity
 @Data
 @Table(name="items_in_each_types")
+
 public class Items {
 
 	@Id
