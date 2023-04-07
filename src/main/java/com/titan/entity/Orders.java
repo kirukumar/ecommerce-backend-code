@@ -18,7 +18,6 @@ import lombok.Data;
 @Entity
 @Data
 @Table(name="Orders")
-
 public class Orders {
 
 	@Id
