@@ -17,3 +17,19 @@ This is a backend application for an e-commerce platform, developed using **Java
 - H2 / MySQL (configurable)
 - Maven
 
+## Getting Started
+
+### Prerequisites
+
+- Java
+- Maven
+- MySQL or H2 Database
+
+### Build and Run
+
+```bash
+# Build the application
+mvn clean install
+
+# Run the application
+mvn spring-boot:run
